@@ -1,2 +1,2 @@
 # Action Text
-<rails action_text:install>
+```rails action_text:install```
