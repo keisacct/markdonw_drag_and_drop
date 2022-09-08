@@ -24,7 +24,7 @@ end
 ```
 
 ## フォームの編集
-```html
+```html.erb
 <%= form_with(model: question, local: true) do |form| %>
     ...
     省略
